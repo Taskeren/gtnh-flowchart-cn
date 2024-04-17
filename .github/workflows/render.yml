@@ -1,10 +1,14 @@
-name: Render Flowcharts
+name: Render Flowcharts and Deploy Pages
 
 on:
-  push: {}
-  pull_request: {}
+  push:
+    branches: [$default-branch]
+  workflow_dispatch:
 
-permissions: read-all
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 
 concurrency: 
   group: render
@@ -24,8 +28,31 @@ jobs:
           sub-dirs: "."
           skip-dirs: ".git"
           log-level: info
-      - name: List the rendered files
-        run: "ls -l ${{ steps.render.outputs.rendered-files }}"
-      - name: Tree
-        run: tree
-        
+      - name: Upload rendered SVGs
+        uses: actions/upload-artifact@v4
+        with:
+          name: SVGs
+          path: "*.svg"
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "."
+      - name: Deploy to Github Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
