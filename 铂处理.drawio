@@ -1,0 +1,962 @@
+<mxfile host="Electron" modified="2024-04-17T10:13:43.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.2.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="X2jwcw-pxTjzQCucEr-Z" version="24.2.5" type="device">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="xagzG4HZBszGosMjI2TL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-0" target="xagzG4HZBszGosMjI2TL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-0" value="铂金属粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-1" target="xagzG4HZBszGosMjI2TL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-1" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-2" target="xagzG4HZBszGosMjI2TL-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-2" target="xagzG4HZBszGosMjI2TL-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="250" />
+              <mxPoint x="680" y="250" />
+              <mxPoint x="680" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-2" value="浓缩铂" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-3" target="xagzG4HZBszGosMjI2TL-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-3" value="铂渣粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-4" target="xagzG4HZBszGosMjI2TL-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="380" />
+              <mxPoint x="200" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-4" target="xagzG4HZBszGosMjI2TL-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-4" target="xagzG4HZBszGosMjI2TL-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-4" target="xagzG4HZBszGosMjI2TL-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-4" target="xagzG4HZBszGosMjI2TL-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-4" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-5" target="xagzG4HZBszGosMjI2TL-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="220" />
+              <mxPoint x="580" y="260" />
+              <mxPoint x="530" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-5" value="硝酸铵" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-11" target="xagzG4HZBszGosMjI2TL-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-11" value="富钯铵" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-12" target="xagzG4HZBszGosMjI2TL-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-12" value="再沉淀铂粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-16" target="xagzG4HZBszGosMjI2TL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-16" value="王水" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-18" target="xagzG4HZBszGosMjI2TL-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-43" target="xagzG4HZBszGosMjI2TL-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-43" target="xagzG4HZBszGosMjI2TL-47" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="590" />
+              <mxPoint x="540" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-43" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-48" value="铂粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-52" target="xagzG4HZBszGosMjI2TL-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-55" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-58" value="钙循环" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="480" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-44" value="钙粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-58" vertex="1">
+          <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xagzG4HZBszGosMjI2TL-58" source="xagzG4HZBszGosMjI2TL-47" target="xagzG4HZBszGosMjI2TL-52" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-47" value="氯化钙" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-58" vertex="1">
+          <mxGeometry x="40" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xagzG4HZBszGosMjI2TL-58" source="xagzG4HZBszGosMjI2TL-52" target="xagzG4HZBszGosMjI2TL-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-52" value="电解机" style="rounded=1;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-58" vertex="1">
+          <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-59" value="王水循环" style="swimlane;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="40" width="400" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-14" target="xagzG4HZBszGosMjI2TL-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-14" value="二氧化氮" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-15" target="xagzG4HZBszGosMjI2TL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-15" value="稀硫酸" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-18" value="搅拌机" style="rounded=1;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="40" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-25" target="xagzG4HZBszGosMjI2TL-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-25" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-28" target="xagzG4HZBszGosMjI2TL-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-28" value="氧气" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-29" target="xagzG4HZBszGosMjI2TL-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-29" value="水" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="280" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-59" source="xagzG4HZBszGosMjI2TL-32" target="xagzG4HZBszGosMjI2TL-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-32" value="硝酸" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-59" vertex="1">
+          <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-44" target="xagzG4HZBszGosMjI2TL-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-77" target="xagzG4HZBszGosMjI2TL-82" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-77" target="xagzG4HZBszGosMjI2TL-88" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-77" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-78" target="xagzG4HZBszGosMjI2TL-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-78" value="钯金属粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-82" target="xagzG4HZBszGosMjI2TL-85" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-82" value="钯盐粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-85" target="xagzG4HZBszGosMjI2TL-78" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-85" value="筛子" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-88" target="xagzG4HZBszGosMjI2TL-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-88" value="再沉淀钯" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-90" target="xagzG4HZBszGosMjI2TL-94" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-90" target="xagzG4HZBszGosMjI2TL-95" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-90" target="xagzG4HZBszGosMjI2TL-96" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-90" target="xagzG4HZBszGosMjI2TL-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-90" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-91" target="xagzG4HZBszGosMjI2TL-90" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-91" value="甲酸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-94" value="钯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-95" value="铵" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="760" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-96" value="乙烯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="780" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-97" value="水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="160" y="800" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-110" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-108" target="xagzG4HZBszGosMjI2TL-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-114" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-113" target="xagzG4HZBszGosMjI2TL-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-113" value="矿物来源" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="580" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-115" value="铂金属粉内循环" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" width="280" height="360" as="geometry">
+            <mxRectangle x="120" width="40" height="110" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-115" source="xagzG4HZBszGosMjI2TL-13" target="xagzG4HZBszGosMjI2TL-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-13" value="铂盐粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-115" vertex="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-115" source="xagzG4HZBszGosMjI2TL-104" target="xagzG4HZBszGosMjI2TL-106" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-104" value="筛子" style="rounded=1;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-115" vertex="1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-109" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-115" source="xagzG4HZBszGosMjI2TL-106" target="xagzG4HZBszGosMjI2TL-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-106" value="精制铂盐粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-115" vertex="1">
+          <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-112" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="xagzG4HZBszGosMjI2TL-115" source="xagzG4HZBszGosMjI2TL-108" target="xagzG4HZBszGosMjI2TL-111" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-108" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-115" vertex="1">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-111" value="氯" style="rounded=0;whiteSpace=wrap;html=1;" parent="xagzG4HZBszGosMjI2TL-115" vertex="1">
+          <mxGeometry x="40" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-116" value="铂粉线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-117" value="钯粉线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-118" target="xagzG4HZBszGosMjI2TL-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-118" target="xagzG4HZBszGosMjI2TL-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-118" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-121" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-120" target="xagzG4HZBszGosMjI2TL-118" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-120" value="焦硫酸钾" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-122" target="xagzG4HZBszGosMjI2TL-220" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-122" value="铂浸出渣粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-124" target="xagzG4HZBszGosMjI2TL-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-124" value="硫酸铑" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-129" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-126" target="xagzG4HZBszGosMjI2TL-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-126" target="xagzG4HZBszGosMjI2TL-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-126" target="xagzG4HZBszGosMjI2TL-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-126" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-140" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-128" target="xagzG4HZBszGosMjI2TL-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-128" value="硫酸铑溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-135" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-130" target="xagzG4HZBszGosMjI2TL-131" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-130" value="熔融钾" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-136" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-131" target="xagzG4HZBszGosMjI2TL-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-131" value="固化+打粉" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-218" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-132" target="xagzG4HZBszGosMjI2TL-120" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-132" value="钾粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-154" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-138" target="xagzG4HZBszGosMjI2TL-143" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-138" target="xagzG4HZBszGosMjI2TL-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-138" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-141" target="xagzG4HZBszGosMjI2TL-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-141" value="锌粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-143" target="xagzG4HZBszGosMjI2TL-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-143" value="硫酸锌" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-144" target="xagzG4HZBszGosMjI2TL-141" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-144" target="xagzG4HZBszGosMjI2TL-147" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-326" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-144" target="xagzG4HZBszGosMjI2TL-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-144" value="电解机" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-157" target="xagzG4HZBszGosMjI2TL-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-157" value="粗制铑金属粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-166" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-159" target="xagzG4HZBszGosMjI2TL-165" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-159" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="1280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-160" target="xagzG4HZBszGosMjI2TL-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-160" value="盐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1280" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-161" target="xagzG4HZBszGosMjI2TL-159" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-161" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1300" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-165" target="xagzG4HZBszGosMjI2TL-173" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-165" value="铑盐粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1080" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-171" value="" style="group" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1" connectable="0">
+          <mxGeometry x="1440" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-147" value="硫粉" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xagzG4HZBszGosMjI2TL-171" vertex="1">
+          <mxGeometry width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-148" value="氧气" style="rounded=0;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="xagzG4HZBszGosMjI2TL-171" vertex="1">
+          <mxGeometry y="20" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-173" target="xagzG4HZBszGosMjI2TL-175" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-173" value="搅拌机" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-175" target="xagzG4HZBszGosMjI2TL-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-175" value="铑盐溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-177" target="xagzG4HZBszGosMjI2TL-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-184" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-177" target="xagzG4HZBszGosMjI2TL-181" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-177" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-179" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-178" target="xagzG4HZBszGosMjI2TL-177" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-178" value="硝酸钠" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-186" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-181" target="xagzG4HZBszGosMjI2TL-185" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-181" value="硝酸铑" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-182" value="盐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1200" y="1600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-188" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-185" target="xagzG4HZBszGosMjI2TL-187" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-185" value="筛子" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-192" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-187" target="xagzG4HZBszGosMjI2TL-190" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-187" value="铑滤饼粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-196" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-189" target="xagzG4HZBszGosMjI2TL-193" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-189" value="铑滤饼溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-191" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-190" target="xagzG4HZBszGosMjI2TL-189" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-190" value="搅拌机" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1320" y="1840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-195" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-193" target="xagzG4HZBszGosMjI2TL-194" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-193" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1440" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-198" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-194" target="xagzG4HZBszGosMjI2TL-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-194" value="再沉淀铑粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1440" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-197" target="xagzG4HZBszGosMjI2TL-202" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-206" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-197" target="xagzG4HZBszGosMjI2TL-203" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-207" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-197" target="xagzG4HZBszGosMjI2TL-201" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-197" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1440" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-200" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-199" target="xagzG4HZBszGosMjI2TL-197" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-199" value="盐酸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1440" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-201" value="铑粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1560" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-202" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1560" y="1680" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-203" value="铵" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1560" y="1700" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-210" value="铑粉线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1120" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-211" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-173" target="xagzG4HZBszGosMjI2TL-190" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="950" y="1320" as="sourcePoint" />
+            <mxPoint x="1000" y="1270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-212" value="输入" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1280" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-213" value="产出" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1280" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-214" value="产出，但是垃圾" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="1400" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-228" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-220" target="xagzG4HZBszGosMjI2TL-227" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-220" target="xagzG4HZBszGosMjI2TL-226" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="800" />
+              <mxPoint x="700" y="800" />
+              <mxPoint x="700" y="880" />
+              <mxPoint x="360" y="880" />
+              <mxPoint x="360" y="920" />
+              <mxPoint x="120" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-232" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-220" target="xagzG4HZBszGosMjI2TL-230" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-220" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-222" target="xagzG4HZBszGosMjI2TL-220" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-222" value="硝石" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="720" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-223" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-223" value="盐水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="740" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-226" target="V35ELph9pLw5bn6I-5wn-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-226" value="钌酸钠" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-227" target="xagzG4HZBszGosMjI2TL-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-227" value="稀有金属浸出粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-230" value="蒸汽" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="920" y="770" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-233" target="xagzG4HZBszGosMjI2TL-237" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-233" target="xagzG4HZBszGosMjI2TL-257" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-233" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-235" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-234" target="xagzG4HZBszGosMjI2TL-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-234" value="盐酸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="720" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-237" target="xagzG4HZBszGosMjI2TL-240" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-237" value="酸性锇溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-249" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-239" target="xagzG4HZBszGosMjI2TL-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-239" value="锇溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-240" target="xagzG4HZBszGosMjI2TL-239" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-321" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-240" target="xagzG4HZBszGosMjI2TL-241" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-240" value="蒸馏塔" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-241" value="水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="827" y="1130" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-253" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-245" target="xagzG4HZBszGosMjI2TL-252" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-245" target="xagzG4HZBszGosMjI2TL-251" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-255" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-245" target="xagzG4HZBszGosMjI2TL-250" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-245" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-246" target="xagzG4HZBszGosMjI2TL-271" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-246" value="盐酸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-250" value="水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="1260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-251" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="1240" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-252" value="锇粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="960" y="1200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-256" value="锇粉线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="880" y="970" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-260" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-257" target="xagzG4HZBszGosMjI2TL-259" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-257" value="铱金属浸出粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1000" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-259" target="xagzG4HZBszGosMjI2TL-261" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-259" target="xagzG4HZBszGosMjI2TL-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-259" value="高炉" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-273" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-261" target="xagzG4HZBszGosMjI2TL-271" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-261" value="二氧化铱粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-263" target="xagzG4HZBszGosMjI2TL-265" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-263" value="污泥浸出粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-269" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-265" target="xagzG4HZBszGosMjI2TL-268" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-265" value="离心机" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-267" value="二氧化硅" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1400" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-268" value="金粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-270" value="废物再利用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="370" y="1110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-275" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-271" target="xagzG4HZBszGosMjI2TL-274" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-271" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-274" target="xagzG4HZBszGosMjI2TL-276" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-274" value="酸性铱溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-282" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-276" target="xagzG4HZBszGosMjI2TL-280" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-276" target="xagzG4HZBszGosMjI2TL-281" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-276" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-279" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-277" target="xagzG4HZBszGosMjI2TL-276" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-277" value="硝酸铵" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-280" target="xagzG4HZBszGosMjI2TL-284" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-280" value="氯化铱" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-281" value="铵" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-284" target="xagzG4HZBszGosMjI2TL-288" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-293" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-284" target="xagzG4HZBszGosMjI2TL-289" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-284" target="xagzG4HZBszGosMjI2TL-290" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-284" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-286" target="xagzG4HZBszGosMjI2TL-284" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-286" value="钙粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-288" value="铱粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-289" target="xagzG4HZBszGosMjI2TL-297" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-289" value="氯化钙液体" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-312" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-290" target="xagzG4HZBszGosMjI2TL-265" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-290" value="铜镍混合物" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-295" value="铜粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1440" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-296" value="镍粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1460" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-302" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-297" target="xagzG4HZBszGosMjI2TL-301" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-297" value="流体固化" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="560" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-304" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-300" target="xagzG4HZBszGosMjI2TL-286" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-306" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-300" target="xagzG4HZBszGosMjI2TL-305" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-300" value="电解机" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-303" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-301" target="xagzG4HZBszGosMjI2TL-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-301" value="氯化钙粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-305" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="680" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-307" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-300" target="xagzG4HZBszGosMjI2TL-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="1470" as="sourcePoint" />
+            <mxPoint x="520" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-308" value="钙循环" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-313" value="铱粉线" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="600" y="980" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-316" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-314" target="xagzG4HZBszGosMjI2TL-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-314" value="盐酸" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="840" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xagzG4HZBszGosMjI2TL-317" value="" style="endArrow=none;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="1680" as="sourcePoint" />
+            <mxPoint x="800" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-0" target="V35ELph9pLw5bn6I-5wn-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-0" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-2" target="V35ELph9pLw5bn6I-5wn-0" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-2" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="1080" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-4" target="V35ELph9pLw5bn6I-5wn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-4" value="四氧化钌溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-6" target="V35ELph9pLw5bn6I-5wn-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-6" value="蒸汽裂化" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-7" target="V35ELph9pLw5bn6I-5wn-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-7" value="蒸汽" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="200" y="1240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-10" target="V35ELph9pLw5bn6I-5wn-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-10" value="热四氧化钌溶液" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-12" target="V35ELph9pLw5bn6I-5wn-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-12" target="V35ELph9pLw5bn6I-5wn-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-12" value="蒸馏塔" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="80" y="1400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-14" value="盐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="1480" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-15" value="水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="40" y="1500" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-16" target="V35ELph9pLw5bn6I-5wn-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-16" value="四氧化钌液体" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-20" target="V35ELph9pLw5bn6I-5wn-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-20" value="液体固化" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-22" target="V35ELph9pLw5bn6I-5wn-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-22" value="四氧化钌粉" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-24" target="V35ELph9pLw5bn6I-5wn-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-24" value="大化反" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-25" target="V35ELph9pLw5bn6I-5wn-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-25" value="盐酸" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="240" y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-28" value="钌粉" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-29" value="水" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1840" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-30" value="氯" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="1860" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="V35ELph9pLw5bn6I-5wn-20" target="xagzG4HZBszGosMjI2TL-297" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="1600" as="sourcePoint" />
+            <mxPoint x="710" y="1550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V35ELph9pLw5bn6I-5wn-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-297" target="xagzG4HZBszGosMjI2TL-131" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="840" y="1620" as="sourcePoint" />
+            <mxPoint x="1000" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="flUKhqJetTorHWVFihBZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="flUKhqJetTorHWVFihBZ-0" target="xagzG4HZBszGosMjI2TL-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flUKhqJetTorHWVFihBZ-0" value="水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="1360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flUKhqJetTorHWVFihBZ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="flUKhqJetTorHWVFihBZ-4" target="xagzG4HZBszGosMjI2TL-190">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="flUKhqJetTorHWVFihBZ-4" value="水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="1840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="flUKhqJetTorHWVFihBZ-6" value="" style="endArrow=none;dashed=1;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xagzG4HZBszGosMjI2TL-245" target="xagzG4HZBszGosMjI2TL-197">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="1480" as="sourcePoint" />
+            <mxPoint x="1050" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
