@@ -1,0 +1,24 @@
+name: Render Flowcharts
+
+on:
+  push: {}
+  pull_request: {}
+
+permissions: read-all
+
+concurrency: 
+  group: render
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - id: render
+        name: Render
+        uses: racklet/render-drawio-action@v1
+      - name: Tree
+        run: tree
+        
