@@ -19,6 +19,13 @@ jobs:
       - id: render
         name: Render
         uses: tbscompany/render-drawio-action@v1.2.2
+        with:
+          formats: svg
+          sub-dirs: "."
+          skip-dirs: ".git"
+          log-level: info
+      - name: List the rendered files
+        run: "ls -l ${{ steps.render.outputs.rendered-files }}"
       - name: Tree
         run: tree
         
